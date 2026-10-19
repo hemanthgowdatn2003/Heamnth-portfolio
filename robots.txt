@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://heamnthgowdatnportfolio.vercel.app/sitemap.xml
